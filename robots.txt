@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/sitemap.xml
+Sitemap: https://acchm2020-ctrl.github.io/hossammamdouh/sitemap.xml
